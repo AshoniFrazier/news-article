@@ -1,3 +1,4 @@
 # News-Article
-Use HTML, and Internal CSS to replicate this article as closely as possible.
+PSD to HTML
+Used HTML, and internal CSS to replicate a PSD of an article on bears.
 
